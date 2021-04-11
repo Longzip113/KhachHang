@@ -28,6 +28,7 @@ namespace OutlookDemo
             {
                 Main main = new Main();
                 main.Show();
+                this.Hide();
             }
             else
             {
